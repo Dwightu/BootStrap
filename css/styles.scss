@@ -76,3 +76,21 @@ body{
     position: absolute;
     bottom: 0px;
 }
+
+#Reserve{
+    .modal-header{
+        background-color: $background-dark;
+    }
+}
+
+.modal-title{
+    color:$lt-gray ;
+}
+
+.close{
+    color: $lt-gray;
+}
+
+.modal-body{
+    background-color: $background-pale;
+}
